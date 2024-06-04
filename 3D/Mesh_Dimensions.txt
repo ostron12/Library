@@ -1,0 +1,20 @@
+Dimensions of SM_Cube (in meters):
+Width: 1.0000 m
+Height: 1.0000 m
+Depth: 1.0000 m
+
+Dimensions of SM_Torus (in meters):
+Width: 1.5000 m
+Height: 1.5000 m
+Depth: 0.5000 m
+
+Dimensions of SM_Cylinder (in meters):
+Width: 1.0000 m
+Height: 1.0000 m
+Depth: 1.0000 m
+
+Dimensions of SM_Sphere (in meters):
+Width: 1.0000 m
+Height: 1.0000 m
+Depth: 1.0000 m
+
