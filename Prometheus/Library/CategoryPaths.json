@@ -1,0 +1,25 @@
+{
+  "3D": {
+    "Primitives": [
+      "3D/Primitives/Cube",
+      "3D/Primitives/Sphere",
+      "3D/Primitives/Cylinder",
+      "3D/Primitives/Torus"
+    ],
+    "Characters": [
+      "3D/Characters/YBot"
+    ]
+  },
+  "UI": {
+    "Buttons": [
+      "UI/Buttons/PlayButton",
+      "UI/Buttons/Level1Button"
+    ],
+    "Credits": [
+      "UI/Credits/Credits"
+    ],
+    "GameTitles": [
+      "UI/GameTitles/GameTitle"
+    ]
+  }
+}

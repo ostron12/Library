@@ -1,0 +1,22 @@
+{
+  "Primitives": {
+    "disable_texture_export": false,
+    "disable_scaling": false
+  },
+  "Characters": {
+    "disable_texture_export": false,
+    "disable_scaling": true
+  },
+  "Buttons": {
+    "disable_texture_export": true,
+    "disable_scaling": true
+  },
+  "Credits": {
+    "disable_texture_export": true,
+    "disable_scaling": true
+  },
+  "GameTitles": {
+    "disable_texture_export": true,
+    "disable_scaling": true
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "keywords": {
+        "tree": "Green",
+        "rock": "Gray",
+        "water": "Blue",
+        "fire": "Red",
+        "default": "Black"
+    }
+}
